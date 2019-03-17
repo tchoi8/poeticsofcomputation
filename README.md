@@ -1,0 +1,2 @@
+# poeticsofcomputation
+Class at SFPC
